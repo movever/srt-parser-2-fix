@@ -154,4 +154,4 @@ class Parser {
 }
 
 export default Parser
-export { Line }
+export type { Line }
